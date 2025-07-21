@@ -7,7 +7,7 @@ This repository contains the projects I completed during my **4-week virtual int
 
 - [Task 1 - To-Do List App (GUI)](#task-1---to-do-list-gui)
 - [Task 2 - Basic Calculator (GUI)](#task-2---basic-calculator-gui)
-- [Task 4 - Rock Paper Scissors Game](#task-4---rock-paper-scissors-game)
+- [Task 5 - Rock Paper Scissors Game](#task-4---rock-paper-scissors-game)
 - [🔧 Technologies Used](#-technologies-used)
 - [🚀 How to Run](#-how-to-run)
 ---
@@ -37,7 +37,7 @@ A functional calculator application built using Python’s Tkinter library. It p
 
 ---
 
-## ✂️ Task 4 - Rock Paper Scissors Game
+## ✂️ Task 5 - Rock Paper Scissors Game
 
 A terminal-based Rock-Paper-Scissors game where the user plays against the computer with score tracking and a friendly interface.
 
@@ -56,7 +56,7 @@ A terminal-based Rock-Paper-Scissors game where the user plays against the compu
 - **Tkinter** – for GUI development
 - **Random module** – for computer choices in the game
 - **File I/O** – for saving tasks in Task 1
-- **ASCII Art** – for console visuals in Task 4
+- **ASCII Art** – for console visuals in Task 5
 
 ---
 
@@ -70,15 +70,14 @@ A terminal-based Rock-Paper-Scissors game where the user plays against the compu
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/codsoft-python-internship.git
-   cd codsoft-python-internship
+   git clone https://github.com/neerudiarunkumar4/codsoft.git
    
 2.**Run Each Task:**
-**Task 1: To-Do List**
+  **Task 1: To-Do List**
 python task1-todolist.py
 
-**Task 2: Calculator**
+  **Task 2: Calculator**
 python task2-calculator.py
 
-**Task 5: Rock Paper Scissors**
+  **Task 5: Rock Paper Scissors**
 python task5-rpsgame.py
