@@ -73,6 +73,7 @@ A terminal-based Rock-Paper-Scissors game where the user plays against the compu
    git clone https://github.com/neerudiarunkumar4/codsoft.git
    
 2.**Run Each Task:**
+
   **Task 1: To-Do List**
 python task1-todolist.py
 
