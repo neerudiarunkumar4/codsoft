@@ -37,7 +37,7 @@ A functional calculator application built using Python’s Tkinter library. It p
 
 ---
 
-## ✂️ Task 5 - Rock Paper Scissors Game
+## ✂️ Task 4 - Rock Paper Scissors Game
 
 A terminal-based Rock-Paper-Scissors game where the user plays against the computer with score tracking and a friendly interface.
 
