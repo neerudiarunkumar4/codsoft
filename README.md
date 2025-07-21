@@ -7,7 +7,7 @@ This repository contains the projects I completed during my **4-week virtual int
 
 - [Task 1 - To-Do List App (GUI)](#task-1---to-do-list-gui)
 - [Task 2 - Basic Calculator (GUI)](#task-2---basic-calculator-gui)
-- [Task 5 - Rock Paper Scissors Game](#task-4---rock-paper-scissors-game)
+- [Task 4 - Rock Paper Scissors Game](#task-4---rock-paper-scissors-game)
 - [🔧 Technologies Used](#-technologies-used)
 - [🚀 How to Run](#-how-to-run)
 ---
@@ -56,7 +56,7 @@ A terminal-based Rock-Paper-Scissors game where the user plays against the compu
 - **Tkinter** – for GUI development
 - **Random module** – for computer choices in the game
 - **File I/O** – for saving tasks in Task 1
-- **ASCII Art** – for console visuals in Task 5
+- **ASCII Art** – for console visuals in Task 4
 
 ---
 
@@ -80,5 +80,5 @@ python task1-todolist.py
   **Task 2: Calculator**
 python task2-calculator.py
 
-  **Task 5: Rock Paper Scissors**
-python task5-rpsgame.py
+  **Task 4: Rock Paper Scissors**
+python task4-rpsgame.py
